@@ -1,0 +1,12 @@
+<svg width="300" height="300" xmlns="http://www.w3.org/2000/svg">
+  <image href="https://raw.githubusercontent.com/matt-way/matt-way/main/matt.jpg" x="0" y="0" height="300" width="300">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="rotate"
+      from="0 150 150"
+      to="360 150 150"
+      dur="5s"
+      repeatCount="indefinite"/>
+  </image>
+</svg>
